@@ -1,5 +1,5 @@
 _repo: Jasmin-Barber-Poet-Philanthropist_838
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Jasmin, 1798-1864'
 - !lcc 'PC'
 - !lcsh 'Poets, French -- Biography'
+- GITenberg
 title: 'Jasmin: Barber, Poet, Philanthropist'
 url: http://www.gutenberg.org/ebooks/838
